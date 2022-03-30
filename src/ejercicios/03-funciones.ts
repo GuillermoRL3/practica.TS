@@ -10,7 +10,7 @@ function persona(a: number, b: number):number{
 
 const sumaFlechas = (a: number , b: number): number =>{
     return a + b;
-}
+};
 const suma = persona(20, 20);
 
 console.log(suma);
